@@ -22,8 +22,8 @@ bio:
 
 interests:
 - Linux & Open Source
-- Content Management Systems (WordPress & JAMstacks)
 - Remote Collaboration
+- Content Management Systems (WordPress & JAMstacks)
 - History, Culture, Language & Nature
 
 education:
